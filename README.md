@@ -16,7 +16,6 @@
 
 <div align="center">
 <h2>Social Media</h2>
-
 <a alt="Instagram" href="instagram.com/karoenaohana" 
 target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
 <a alt="WhatsApp" href="https://wa.me/5582988000847?text=Oi%2C+Karoena%21+Visualizei+seu+perfil+no+Github." 
@@ -25,11 +24,10 @@ target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for
 target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 <a alt="Outlook" href="karoenaohana0@outlook.com" 
 target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
-
 </div>
 
-#
-<h2> Studying in this moment:</h2>
+
+<h2 align="center"> Studying in this moment:</h2>
 
 <div style="display: inline_block"><br>
 
