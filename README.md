@@ -1,7 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF16EF&height=120&section=header"/>
 
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&pause=1000&color=CF04CE&width=435&lines=My+name+is+Karoena+Ohana.+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+was+Born+in+Brazil+in+1998.;I+am+an+academic+in+Systems+Analysis+and+Development;I'm+interested+in+front-end%2C+mostly+JavaScript.)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=karoenaohana&show_icons=true&count_private=true&hide_border=true&title_color=FF16EF&icon_color=FF16EF&text_color=c9d1d9&bg_color=0d1117" alt="Maria Carolina github stats" /> 
